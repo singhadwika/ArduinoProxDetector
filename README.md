@@ -7,11 +7,11 @@ This project demonstrates how to use an Arduino to measure the distance to an ob
 ## Components and Connections
 
 ### Hardware
-- Arduino (e.g., Arduino Uno)
+- Arduino Uno
 - Ultrasonic Sensor (HC-SR04)
 - 16x2 LCD Display
 - Jumper Wires
-- Breadboard (optional)
+- Breadboard 
 
 ### Connections
 - **Ultrasonic Sensor:**
