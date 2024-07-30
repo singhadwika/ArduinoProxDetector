@@ -1,7 +1,5 @@
 # ArduinoProxSensor
 
-# Distance Measurement with Ultrasonic Sensor
-
 This project demonstrates how to use an Arduino to measure the distance to an object using an ultrasonic sensor (HC-SR04) and display the result on a 16x2 LCD screen. The project involves triggering the ultrasonic sensor to send an ultrasonic pulse, measuring the time it takes for the pulse to return, calculating the distance, and then displaying the distance on the LCD.
 
 ## Components and Connections
